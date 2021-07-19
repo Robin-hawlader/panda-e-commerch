@@ -11,3 +11,6 @@
 .price-color{
     color: #ff4c93;
 }
+.img-resize img{
+    width: 100px;
+}
